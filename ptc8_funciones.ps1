@@ -1,6 +1,6 @@
 # ==========================================
 # ARCHIVO DE FUNCIONES - PRÁCTICA SERVER
-# Guárdalo como: Funciones.ps1
+# Funciones.ps1
 # ==========================================
 
 Import-Module ActiveDirectory
