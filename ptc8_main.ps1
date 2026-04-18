@@ -1,6 +1,6 @@
 # ==========================================
 # MENÚ PRINCIPAL - PRÁCTICA SERVER
-# Guárdalo como: Menu.ps1
+# Menu.ps1
 # ==========================================
 
 # Importar las funciones desde el otro archivo (Dot-Sourcing)
